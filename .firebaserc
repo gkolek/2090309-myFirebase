@@ -1,1 +1,5 @@
-{}
+{
+  "projects": {
+    "staging": "my-first-firebase-5d29b"
+  }
+}
